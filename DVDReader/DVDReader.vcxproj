@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="DVDReader.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DVDReader.h" />
+    <ClInclude Include="DVD_Disk.h" />
+    <ClInclude Include="IReader.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

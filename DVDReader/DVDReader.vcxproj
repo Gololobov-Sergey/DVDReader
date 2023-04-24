@@ -134,6 +134,9 @@
     <ClInclude Include="DVD_Disk.h" />
     <ClInclude Include="IReader.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\class diagram dvd (1).pdf" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
